@@ -9,7 +9,7 @@ Solutions to all of the Kattis problems I have completed.
 | [N-sum](https://open.kattis.com/problems/nsum)| [Go](Go/nsum.go) | 0.08s | 2021-11-23 15:45:42 |
 | [Odd Echo](https://open.kattis.com/problems/oddecho) | [Go](Go/oddecho.go) | 0.08s | 2021-11-23 19:26:29 |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [Go](Go/echoechoecho.go) | 0.08s | 2021-11-24 04:04:50 |
-| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Go](Go/ofugsnuid.go) | 0.08s | 2021-11-24 05:41:50 |
+| [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Go](Go/ofugsnuid.go) | 0.29s | 2021-11-24 05:41:50 |
 
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
