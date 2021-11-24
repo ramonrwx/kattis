@@ -13,5 +13,6 @@ Solutions to all of the Kattis problems I have completed.
 | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Go](Go/sorttwonumbers.go) | 0.08s | 2021-11-24 07:08:19 |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [Go](Go/greetings2.go) | 0.08s | 2021-11-24 09:57:21 |
 | [Oddities](https://open.kattis.com/problems/oddities) | [Go](Go/oddities.go) | 0.02s | 2021-11-24 11:21:27 |
+| [Digit Swap](https://open.kattis.com/problems/digitswap) | [Go](Go/digitswap.go) | 0.07s | 2021-11-24 20:17:36 |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
