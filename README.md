@@ -15,5 +15,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Oddities](https://open.kattis.com/problems/oddities) | [Go](Go/oddities.go) | 0.02s | 2021-11-24 11:21:27 |
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [Go](Go/digitswap.go) | 0.07s | 2021-11-24 20:17:36 |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Go](Go/twostones.go) | 0.08s | 2021-11-24 22:14:01 |
+| [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Go](Go/timeloop.go) | 0.08s | 2021-11-25 01:09:19 |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
