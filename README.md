@@ -1,5 +1,5 @@
 # Kattis
-Solutions to all of the Kattis problems I have completed.
+Solutions to all of the Kattis problems I have completed using Go.
 
 | Problem | Lang | CPU time | Date |
 |---------|------|-----|------|
