@@ -17,5 +17,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Go](Go/twostones.go) | 0.08s | 2021-11-24 22:14:01 |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Go](Go/timeloop.go) | 0.08s | 2021-11-25 01:09:19 |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Go](Go/addtwonumbers.go) | 0.08s | 2021-11-25 01:58:49 |
+| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Go](Go/isithalloween.go) | 0.08s | 2021-11-25 02:18:03 |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
