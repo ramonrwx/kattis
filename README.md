@@ -1,8 +1,8 @@
 # Kattis
 Solutions to all of the Kattis problems I have completed using Go.
 
-| Problem                                                             | Solution                         |
-| ------------------------------------------------------------------- | -------------------------------- |
+| Problem                                                             | Solution                   |
+| ------------------------------------------------------------------- | -------------------------- |
 | [Hello](https://open.kattis.com/problems/hello)                     | [Go](Go/hello.go)          |
 | [ABC](https://open.kattis.com/problems/abc)                         | [Go](Go/abc.go)            |
 | [Two-sum](https://open.kattis.com/problems/twosum)                  | [Go](Go/twosum.go)         |
@@ -21,6 +21,7 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)               | [Go](Go/fizzbuzz.go)       |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage)  | [Go](Go/encodedmessage.go) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)       | [Go](Go/grassseed.go)      |
+| [Pet](https://open.kattis.com/problems/pet)                         | [Go](Go/pet.go)            |
 
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
