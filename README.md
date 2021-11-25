@@ -19,5 +19,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Go](Go/addtwonumbers.go) | 0.08s | 2021-11-25 01:58:49 |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Go](Go/isithalloween.go) | 0.08s | 2021-11-25 02:18:03 |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Go](Go/fizzbuzz.go) | 0.08s | 2021-11-25 02:56:46 |
+| [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Go](Go/encodedmessage.go) | 0.80s | 2021-11-25 10:46:20 |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
