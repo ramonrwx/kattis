@@ -22,6 +22,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage)  | [Go](Go/encodedmessage.go) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)       | [Go](Go/grassseed.go)      |
 | [Pet](https://open.kattis.com/problems/pet)                         | [Go](Go/pet.go)            |
-
+| [Triangle Area](https://open.kattis.com/problems/triarea)           | [Go](Go/triarea.go)        |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
