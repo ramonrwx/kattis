@@ -23,5 +23,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)       | [Go](Go/grassseed.go)      |
 | [Pet](https://open.kattis.com/problems/pet)                         | [Go](Go/pet.go)            |
 | [Triangle Area](https://open.kattis.com/problems/triarea)           | [Go](Go/triarea.go)        |
+| [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Go](Go/apaxiaaans.go)     |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
