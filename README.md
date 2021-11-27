@@ -26,5 +26,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Go](Go/apaxiaaans.go)     |
 | [Filip](https://open.kattis.com/problems/filip)                     | [Go](Go/filip.go)          |
 | [Simon Says](https://open.kattis.com/problems/simonsays)            | [Go](Go/simonsays.go)      |
+| [Autori](https://open.kattis.com/problems/autori)                   | [Go](Go/autori.go)         |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
