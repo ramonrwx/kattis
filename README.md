@@ -33,5 +33,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Aaah!](https://open.kattis.com/problems/aaah)                      | [Go](Go/aaah.go)           |
 | [Bela](https://open.kattis.com/problems/bela)                       | [Go](Go/bela.go)           |
 | [Cold-puter Science](https://open.kattis.com/problems/cold)         | [Go](Go/cold.go)           |
+| [R2](https://open.kattis.com/problems/r2)                           | [Go](Go/r2.go)             |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
