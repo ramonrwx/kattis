@@ -31,5 +31,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Pot](https://open.kattis.com/problems/pot)                         | [Go](Go/pot.go)            |
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders)      | [Go](Go/sevenwonders.go)   |
 | [Aaah!](https://open.kattis.com/problems/aaah)                      | [Go](Go/aaah.go)           |
+| [Bela](https://open.kattis.com/problems/bela)                       | [Go](Go/bela.go)           |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
