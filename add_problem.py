@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/env python
 from pathlib import Path
-from shutil import copy2
+from shutil import copy
 
 KATTIS_URL = 'https://open.kattis.com/problems/'
 
@@ -23,7 +23,7 @@ else:
     success = False
 
 if success:
-    copy2(f'./kattis/{problem}.go', './Go', follow_symlinks=True)
+    copy(f'../main.go', f'./Go/{problem}.go', follow_symlinks=True)
     print(f'The {prob_title} problem was added to the README.md')
 else:
     print('Okay, Houston, we\'ve had a problem here')
