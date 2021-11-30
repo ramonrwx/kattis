@@ -38,5 +38,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Stopwatch](https://open.kattis.com/problems/stopwatch)             | [Go](Go/stopwatch.go)      |
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems)  | [Go](Go/ratingproblems.go) |
 | [Faktor](https://open.kattis.com/problems/faktor)                   | [Go](Go/faktor.go)         |
+| [Dice Cup](https://open.kattis.com/problems/dicecup)                | [Go](Go/dicecup.go)        |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
