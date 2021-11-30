@@ -35,5 +35,6 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Cold-puter Science](https://open.kattis.com/problems/cold)         | [Go](Go/cold.go)           |
 | [R2](https://open.kattis.com/problems/r2)                           | [Go](Go/r2.go)             |
 | [Tarifa](https://open.kattis.com/problems/tarifa)                   | [Go](Go/tarifa.go)         |
+| [Stopwatch](https://open.kattis.com/problems/stopwatch)             | [Go](Go/stopwatch.go)      |
 
 [Kattis profile](https://open.kattis.com/users/ramon-rodrigues1)
