@@ -41,3 +41,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [Go](Go/dicecup.go) |
 | [Planina](https://open.kattis.com/problems/planina) | [Go](Go/planina.go) |
 | [FYI](https://open.kattis.com/problems/fyi) | [Go](Go/fyi.go) |
+| [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Go](Go/nastyhacks.go) |
