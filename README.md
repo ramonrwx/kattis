@@ -40,3 +40,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Faktor](https://open.kattis.com/problems/faktor) | [Go](Go/faktor.go) |
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [Go](Go/dicecup.go) |
 | [Planina](https://open.kattis.com/problems/planina) | [Go](Go/planina.go) |
+| [FYI](https://open.kattis.com/problems/fyi) | [Go](Go/fyi.go) |
