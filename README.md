@@ -42,3 +42,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Planina](https://open.kattis.com/problems/planina) | [Go](Go/planina.go) |
 | [FYI](https://open.kattis.com/problems/fyi) | [Go](Go/fyi.go) |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Go](Go/nastyhacks.go) |
+| [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Go](Go/reversebinary.go) |
