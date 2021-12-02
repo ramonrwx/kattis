@@ -48,3 +48,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [Go](Go/heartrate.go) |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Go](Go/qaly.go) |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Go](Go/quadrant.go) |
+| [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Go](Go/jumbojavelin.go) |
