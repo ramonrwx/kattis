@@ -47,3 +47,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Batter Up](https://open.kattis.com/problems/batterup) | [Go](Go/batterup.go) |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [Go](Go/heartrate.go) |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Go](Go/qaly.go) |
+| [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Go](Go/quadrant.go) |
