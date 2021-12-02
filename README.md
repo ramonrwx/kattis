@@ -44,3 +44,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Go](Go/nastyhacks.go) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Go](Go/reversebinary.go) |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [Go](Go/jackolanternjuxtaposition.go) |
+| [Batter Up](https://open.kattis.com/problems/batterup) | [Go](Go/batterup.go) |
