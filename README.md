@@ -49,3 +49,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Go](Go/qaly.go) |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Go](Go/quadrant.go) |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Go](Go/jumbojavelin.go) |
+| [Trik](https://open.kattis.com/problems/trik) | [Go](Go/trik.go) |
