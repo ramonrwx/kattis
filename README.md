@@ -50,3 +50,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Go](Go/quadrant.go) |
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Go](Go/jumbojavelin.go) |
 | [Trik](https://open.kattis.com/problems/trik) | [Go](Go/trik.go) |
+| [Number Fun](https://open.kattis.com/problems/numberfun) | [Go](Go/numberfun.go) |
