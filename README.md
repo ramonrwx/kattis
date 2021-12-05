@@ -52,3 +52,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Trik](https://open.kattis.com/problems/trik) | [Go](Problems/trik.go) |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [Go](Problems/numberfun.go) |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Python](Problems/electricaloutlets.py) |
+| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Python](Problems/chanukah.py) |
