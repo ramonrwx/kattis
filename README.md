@@ -51,3 +51,4 @@ Solutions to all of the Kattis problems I have completed using Go.
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Go](Go/jumbojavelin.go) |
 | [Trik](https://open.kattis.com/problems/trik) | [Go](Go/trik.go) |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [Go](Go/numberfun.go) |
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Python](Problems/electricaloutlets.py) |
