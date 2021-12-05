@@ -1,5 +1,5 @@
 # Kattis
-Solutions to all of the Kattis problems I have complete.
+Solutions to all of the Kattis problems I have completed.
 
 | Problem | Solution |
 | ------ | ------|
