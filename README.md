@@ -53,3 +53,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [Go](Problems/numberfun.go) |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Python](Problems/electricaloutlets.py) |
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Python](Problems/chanukah.py) |
+| [Zamka](https://open.kattis.com/problems/zamka) | [Python](Problems/zamka.py) |
