@@ -18,7 +18,7 @@ Solutions to all of the Kattis problems I have completed.
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Go](Problems/timeloop.go) |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Go](Problems/addtwonumbers.go) |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Go](Problems/isithalloween.go) |
-| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Go](Problems/fizzbuzz.go) |
+| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Go](Problems/fizzbuzz.go), [Python](Problems/fizzbuzz.py) |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Go](Problems/encodedmessage.go), [Python](Problems/encodedmessage.py) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Go](Problems/grassseed.go) |
 | [Pet](https://open.kattis.com/problems/pet) | [Go](Problems/pet.go) |
@@ -56,3 +56,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Zamka](https://open.kattis.com/problems/zamka) | [Python](Problems/zamka.py) |
 | [Homework](https://open.kattis.com/problems/heimavinna) | [Python](Problems/heimavinna.py) |
 | [SMIL](https://open.kattis.com/problems/smil) | [Python](Problems/smil.py) |
+| [Skocimis](https://open.kattis.com/problems/skocimis) | [Python](Problems/skocimis.py) |
