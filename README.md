@@ -19,7 +19,7 @@ Solutions to all of the Kattis problems I have completed.
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Go](Problems/addtwonumbers.go) |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Go](Problems/isithalloween.go) |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Go](Problems/fizzbuzz.go) |
-| [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Go](Problems/encodedmessage.go) |
+| [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Go](Problems/encodedmessage.go), [Python](Problems/encodedmessage.py) |
 | [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Go](Problems/grassseed.go) |
 | [Pet](https://open.kattis.com/problems/pet) | [Go](Problems/pet.go) |
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [Go](Problems/triarea.go) |
