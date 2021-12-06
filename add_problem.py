@@ -16,12 +16,14 @@ elif ext == 'py':
 
 if prob_title and prob_url:
     file = open('./README.md', 'a')
-    file.write(f'| [{prob_title}]({KATTIS_URL}{prob_url}) | [{lang}](Problems/{file_name}.{ext}) |\n')
+    file.write(
+        f'| [{prob_title}]({KATTIS_URL}{prob_url}) | [{lang}](Problems/{file_name}.{ext}) |\n')
 else:
     success = False
 
 if success:
-    copy(f'./main.{ext}', f'./Problems/{file_name}.{ext}', follow_symlinks=True)
+    copy(f'./main.{ext}', f'./Problems/{file_name}.{ext}',
+         follow_symlinks=True)
     print(f'The {prob_title} problem was added to the README.md')
 else:
     print('Okay, Houston, we\'ve had a problem here')

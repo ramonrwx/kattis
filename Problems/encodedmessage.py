@@ -7,7 +7,7 @@ for word in words:
     for i in range(len(word)):
         sqrt = (len(word) ** (1/2))
 
-        index = int((i%sqrt+1)*sqrt - i // sqrt - 1)
+        index = int((i % sqrt+1)*sqrt - i // sqrt - 1)
         output += word[index]
 
     print(output)

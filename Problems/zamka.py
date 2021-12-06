@@ -5,8 +5,10 @@ X = int(input())
 num_max = 0
 num_min = 0
 
+
 def sum_digits(n):
     return sum([int(x) for x in str(n)])
+
 
 for i in range(L, D+1):
     if (sum_digits(i) == X):
