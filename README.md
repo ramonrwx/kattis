@@ -55,3 +55,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Python](Problems/chanukah.py) |
 | [Zamka](https://open.kattis.com/problems/zamka) | [Python](Problems/zamka.py) |
 | [Homework](https://open.kattis.com/problems/heimavinna) | [Python](Problems/heimavinna.py) |
+| [SMIL](https://open.kattis.com/problems/smil) | [Python](Problems/smil.py) |
