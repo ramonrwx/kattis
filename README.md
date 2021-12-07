@@ -57,3 +57,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Homework](https://open.kattis.com/problems/heimavinna) | [Python](Problems/heimavinna.py) |
 | [SMIL](https://open.kattis.com/problems/smil) | [Python](Problems/smil.py) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [Python](Problems/skocimis.py) |
+| [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [Python](Problems/sumkindofproblem.py) |
