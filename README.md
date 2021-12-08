@@ -61,3 +61,4 @@ Solutions to all of the Kattis problems I have completed.
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [Python](Problems/nodup.py) |
 | [Modulo](https://open.kattis.com/problems/modulo) | [Python](Problems/modulo.py) |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python](Problems/hissingmicrophone.py) |
+| [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Python](Problems/harshadnumbers.py) |
