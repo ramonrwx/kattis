@@ -59,3 +59,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [Python](Problems/skocimis.py) |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [Python](Problems/sumkindofproblem.py) |
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [Python](Problems/nodup.py) |
+| [Modulo](https://open.kattis.com/problems/modulo) | [Python](Problems/modulo.py) |
