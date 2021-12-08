@@ -58,3 +58,4 @@ Solutions to all of the Kattis problems I have completed.
 | [SMIL](https://open.kattis.com/problems/smil) | [Python](Problems/smil.py) |
 | [Skocimis](https://open.kattis.com/problems/skocimis) | [Python](Problems/skocimis.py) |
 | [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [Python](Problems/sumkindofproblem.py) |
+| [No Duplicates](https://open.kattis.com/problems/nodup) | [Python](Problems/nodup.py) |
