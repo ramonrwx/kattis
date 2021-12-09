@@ -66,3 +66,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Parking](https://open.kattis.com/problems/parking2) | [Python](Problems/parking2.py) |
 | [Hangman](https://open.kattis.com/problems/hangman) | [Python](Problems/hangman.py) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [Python](Problems/icpcawards.py) |
+| [A Real Challenge](https://open.kattis.com/problems/areal) | [Python](Problems/areal.py) |
