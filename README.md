@@ -65,3 +65,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Some Sum](https://open.kattis.com/problems/somesum) | [Python](Problems/somesum.py) |
 | [Parking](https://open.kattis.com/problems/parking2) | [Python](Problems/parking2.py) |
 | [Hangman](https://open.kattis.com/problems/hangman) | [Python](Problems/hangman.py) |
+| [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [Python](Problems/icpcawards.py) |
