@@ -62,3 +62,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Modulo](https://open.kattis.com/problems/modulo) | [Python](Problems/modulo.py) |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python](Problems/hissingmicrophone.py) |
 | [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Python](Problems/harshadnumbers.py) |
+| [Some Sum](https://open.kattis.com/problems/somesum) | [Python](Problems/somesum.py) |
