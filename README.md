@@ -67,3 +67,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Hangman](https://open.kattis.com/problems/hangman) | [Python](Problems/hangman.py) |
 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [Python](Problems/icpcawards.py) |
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [Python](Problems/areal.py) |
+| [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | [Python](Problems/basicprogramming1.py) |
