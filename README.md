@@ -72,3 +72,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Python](Problems/cetvrta.py) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [Python](Problems/bijele.py) |
 | [Ladder](https://open.kattis.com/problems/ladder) | [Python](Problems/ladder.py) |
+| [Kornislav](https://open.kattis.com/problems/kornislav) | [Python](Problems/kornislav.py) |
