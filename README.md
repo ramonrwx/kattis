@@ -71,3 +71,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Python](Problems/detaileddifferences.py) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Python](Problems/cetvrta.py) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [Python](Problems/bijele.py) |
+| [Ladder](https://open.kattis.com/problems/ladder) | [Python](Problems/ladder.py) |
