@@ -77,3 +77,4 @@ Solutions to all of the Kattis problems I have completed.
 | [Spavanac](https://open.kattis.com/problems/spavanac) | [Python](Problems/spavanac.py) |
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Python](Problems/conundrum.py) |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python](Problems/everywhere.py) |
+| [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [Python](Problems/zanzibar.py) |
