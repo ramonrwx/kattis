@@ -31,5 +31,5 @@ else:
         if idx == n-1:
             print('Done')
             break
-        indexs[i] = True
-        i = numbers[i]
+        indexs[idx] = True
+        idx = numbers[idx]
