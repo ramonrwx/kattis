@@ -1,6 +1,3 @@
-# Kattis
-Solutions to all of the Kattis problems I have completed.
-
 | Problem | Solution |
 | ------ | ------|
 | [Hello](https://open.kattis.com/problems/hello) | [Go](Problems/hello.go) |
