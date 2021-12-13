@@ -1,3 +1,5 @@
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/ramonrwx/kattis/main.svg)](https://results.pre-commit.ci/latest/github/ramonrwx/kattis/main)
+
 | Problem | Solution |
 | ------ | ------|
 | [Hello](https://open.kattis.com/problems/hello) | [Go](Problems/hello.go) |
