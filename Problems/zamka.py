@@ -7,7 +7,7 @@ num_min = 0
 
 
 def sum_digits(n):
-    return sum([int(x) for x in str(n)])
+    return sum(int(x) for x in str(n))
 
 
 for i in range(L, D+1):

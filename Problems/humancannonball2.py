@@ -3,7 +3,7 @@ import math
 cases = int(input())
 
 for _ in range(cases):
-    v, angle, x1, h1, h2 = [float(x) for x in input().split()]
+    v, angle, x1, h1, h2 = (float(x) for x in input().split())
     angle = angle / 180 * math.pi
     h1 = h1 + 1
     h2 = h2 - 1

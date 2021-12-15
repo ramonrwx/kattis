@@ -2,7 +2,7 @@ col_x, xs = [], set()
 col_y, ys = [], set()
 
 for i in range(3):
-    x, y = [int(n) for n in input().split()]
+    x, y = (int(n) for n in input().split())
     col_x.append(x)
     col_y.append(y)
 

@@ -1,4 +1,4 @@
-n, t = [int(x) for x in input().split()]
+n, t = (int(x) for x in input().split())
 numbers = [int(x) for x in input().split()]
 
 if t == 1:
