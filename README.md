@@ -81,3 +81,4 @@
 | [Datum](https://open.kattis.com/problems/datum) | [Python](Problems/datum.py) |
 | [Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere) | [Python](Problems/drunkvigenere.py) |
 | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Python](Problems/npuzzle.py) |
+| [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Python](Problems/pokerhand.py) |
