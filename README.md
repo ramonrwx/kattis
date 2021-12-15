@@ -80,3 +80,4 @@
 | [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [Python](Problems/humancannonball2.py) |
 | [Datum](https://open.kattis.com/problems/datum) | [Python](Problems/datum.py) |
 | [Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere) | [Python](Problems/drunkvigenere.py) |
+| [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Python](Problems/npuzzle.py) |
