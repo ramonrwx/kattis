@@ -8,11 +8,7 @@ ALPHABET = ascii_uppercase
 decrypted_msg = ''
 
 for i in range(len(encrypted_msg)):
-    if i % 2 == 0:
-        opr = sub
-    else:
-        opr = add
-
+    opr = sub if i % 2 == 0 else add
     decrypted_msg += ALPHABET[opr(ALPHABET
                                   .index(encrypted_msg[i]),
                                   ALPHABET.index(key[i])) % 26]
