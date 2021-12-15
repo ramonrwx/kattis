@@ -9,12 +9,12 @@ repos:
         files: ^Problems/
         types: [python]
       - id: check-yaml
+  - repo: https://github.com/pre-commit/mirrors-autopep8
+    rev: v1.5.7
+    hooks:
+      - id: autopep8
   - repo: https://github.com/PyCQA/flake8
     rev: 4.0.1
     hooks:
       - id: flake8
         exclude: 'add_problem.py'
-  - repo: https://github.com/pre-commit/mirrors-autopep8
-    rev: v1.5.7
-    hooks:
-      - id: autopep8
