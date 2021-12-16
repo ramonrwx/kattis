@@ -83,3 +83,4 @@
 | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Python](Problems/npuzzle.py) |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Python](Problems/pokerhand.py) |
 | [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Python](Problems/provincesandgold.py) |
+| [A Different Problem](https://open.kattis.com/problems/different) | [Python](Problems/different.py) |
