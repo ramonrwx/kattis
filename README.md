@@ -84,3 +84,4 @@
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Python](Problems/pokerhand.py) |
 | [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Python](Problems/provincesandgold.py) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Python](Problems/different.py) |
+| [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Python](Problems/shatteredcake.py) |
