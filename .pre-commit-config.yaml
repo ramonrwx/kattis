@@ -18,10 +18,8 @@ repos:
     rev: v1.5.7
     hooks:
       - id: autopep8
-        args: ['--ignore=E302']
   - repo: https://github.com/PyCQA/flake8
     rev: 4.0.1
     hooks:
       - id: flake8
         exclude: 'add_problem.py'
-        args: ['--ignore=E302,E305']
