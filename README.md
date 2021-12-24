@@ -85,3 +85,4 @@
 | [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Python](Problems/provincesandgold.py) |
 | [A Different Problem](https://open.kattis.com/problems/different) | [Python](Problems/different.py) |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Python](Problems/shatteredcake.py) |
+| [Sibice](https://open.kattis.com/problems/sibice) | [Python](Problems/sibice.py) |

@@ -3,9 +3,11 @@ repos:
     rev: v4.0.1
     hooks:
       - id: trailing-whitespace
-        types_or: [python, markdown]
+        files: ^Problems/
+        types: [python]
       - id: end-of-file-fixer
-        types_or: [python, markdown]
+        files: ^Problems/
+        types: [python]
       - id: check-yaml
   - repo: https://github.com/asottile/pyupgrade
     rev: v2.29.1
@@ -16,8 +18,10 @@ repos:
     rev: v1.5.7
     hooks:
       - id: autopep8
+        args: ['--ignore=E302']
   - repo: https://github.com/PyCQA/flake8
     rev: 4.0.1
     hooks:
       - id: flake8
         exclude: 'add_problem.py'
+        args: ['--ignore=E302,E305']
