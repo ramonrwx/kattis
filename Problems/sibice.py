@@ -1,12 +1,12 @@
 from math import hypot
 
 n, w, h = (int(x) for x in input().split())
-LONGEST = hypot(w, h)
 
 
-def fits_in_box(num: int) -> None:
-    print('DA') if num <= LONGEST else print('NE')
+def fits_in_box(nums: list[int]) -> None:
+    longest = hypot(w, h)
+    for num in nums:
+        print('DA') if num <= longest else print('NE')
 
 
-for _ in range(n):
-    fits_in_box(int(input()))
+fits_in_box(int(input()) for _ in range(n))
