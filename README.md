@@ -86,3 +86,4 @@
 | [A Different Problem](https://open.kattis.com/problems/different) | [Python](Problems/different.py) |
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Python](Problems/shatteredcake.py) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [Python](Problems/sibice.py) |
+| [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Python](Problems/competitivearcadebasketball.py) |
