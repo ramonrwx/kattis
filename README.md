@@ -87,3 +87,4 @@
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Python](Problems/shatteredcake.py) |
 | [Sibice](https://open.kattis.com/problems/sibice) | [Python](Problems/sibice.py) |
 | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Python](Problems/competitivearcadebasketball.py) |
+| [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Python](Problems/helpaphd.py) |
