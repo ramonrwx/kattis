@@ -89,3 +89,4 @@
 | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Python](Problems/competitivearcadebasketball.py) |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Python](Problems/helpaphd.py) |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [Python](Problems/romans.py) |
+| [Boat Parts](https://open.kattis.com/problems/boatparts) | [Python](Problems/boatparts.py) |
