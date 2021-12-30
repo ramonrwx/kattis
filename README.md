@@ -11,7 +11,7 @@
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Go](Problems/ofugsnuid.go) |
 | [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Go](Problems/sorttwonumbers.go) |
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [Go](Problems/greetings2.go) |
-| [Oddities](https://open.kattis.com/problems/oddities) | [Go](Problems/oddities.go) |
+| [Oddities](https://open.kattis.com/problems/oddities) | [Go](Problems/oddities.go), [Python](Problems/oddities.py) |
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [Go](Problems/digitswap.go) |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Go](Problems/twostones.go) |
 | [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop) | [Go](Problems/timeloop.go) |
