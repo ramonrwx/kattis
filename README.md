@@ -92,3 +92,4 @@
 | [Boat Parts](https://open.kattis.com/problems/boatparts) | [Python](Problems/boatparts.py) |
 | [Avion](https://open.kattis.com/problems/avion) | [Python](Problems/avion.py) |
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Python](Problems/janitortroubles.py) |
+| [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Python](Problems/jobexpenses.py) |
