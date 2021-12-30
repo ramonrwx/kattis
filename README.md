@@ -43,7 +43,7 @@
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Go](Problems/nastyhacks.go) |
 | [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Go](Problems/reversebinary.go) |
 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [Go](Problems/jackolanternjuxtaposition.go) |
-| [Batter Up](https://open.kattis.com/problems/batterup) | [Go](Problems/batterup.go) |
+| [Batter Up](https://open.kattis.com/problems/batterup) | [Go](Problems/batterup.go), [Python](Problems/batterup.py) |
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [Go](Problems/heartrate.go) |
 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Go](Problems/qaly.go) |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Go](Problems/quadrant.go) |
