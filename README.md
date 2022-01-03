@@ -94,3 +94,4 @@
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Python](Problems/janitortroubles.py) |
 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Python](Problems/jobexpenses.py) |
 | [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [Python](Problems/estimatingtheareaofacircle.py) |
+| [Relocation](https://open.kattis.com/problems/relocation) | [Python](Problems/relocation.py) |
